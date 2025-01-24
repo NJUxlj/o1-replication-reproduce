@@ -68,14 +68,41 @@ python train.py
 
 
 ## Citation
+Alibaba's `Macro-O1`:
 ```bibtxt
-
+@misc{zhao2024marcoo1openreasoningmodels,
+      title={Marco-o1: Towards Open Reasoning Models for Open-Ended Solutions}, 
+      author={Yu Zhao and Huifeng Yin and Bo Zeng and Hao Wang and Tianqi Shi and Chenyang Lyu and Longyue Wang and Weihua Luo and Kaifu Zhang},
+      year={2024},
+      eprint={2411.14405},
+      archivePrefix={arXiv},
+      primaryClass={cs.CL},
+      url={https://arxiv.org/abs/2411.14405}, 
+}
 ```
 
-```bibtxt
+---
+- `LLaMA-O1`: [llama-o1](https://github.com/SimpleBerry/LLaMA-O1)
 
+---
+
+`Open-O1`:
+```bibtxt
+@article{
+    supplement,
+    title={},
+    author={OpenO1 Team},
+    journal={},
+    url={},
+    year={}
+}
 ```
 
-```bibtxt
 
-```
+---
+
+## Useful Blogs
+- [OpenAI o1 复现——过程奖励模型（PRM）](https://zhuanlan.zhihu.com/p/1246547399)
+- [上交大O1复现](https://zhuanlan.zhihu.com/p/10180139030)
+- [OpenAI o1 self-play RL 技术路线推演](https://zhuanlan.zhihu.com/p/720106482)
+- [Reverse-o1:OpenAI o1原理逆向工程图解](https://zhuanlan.zhihu.com/p/721952915)
