@@ -68,7 +68,7 @@ python train.py
 
 
 ## Citation
-Alibaba's `Macro-O1`:
+Alibaba's `Macro-O1`: [macro-o1](https://github.com/AIDC-AI/Marco-o1/tree/main)
 ```bibtxt
 @misc{zhao2024marcoo1openreasoningmodels,
       title={Marco-o1: Towards Open Reasoning Models for Open-Ended Solutions}, 
@@ -86,7 +86,7 @@ Alibaba's `Macro-O1`:
 
 ---
 
-`Open-O1`:
+`Open-O1`: [open-o1](https://github.com/Open-Source-O1/Open-O1)
 ```bibtxt
 @article{
     supplement,
